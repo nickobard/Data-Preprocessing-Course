@@ -1,1 +1,2 @@
 01/MetObjects.txt filter=lfs diff=lfs merge=lfs -text
+02/data.csv filter=lfs diff=lfs merge=lfs -text
